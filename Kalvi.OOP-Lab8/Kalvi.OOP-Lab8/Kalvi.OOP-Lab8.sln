@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalvi.OOP-Lab8", "Kalvi.OOP-Lab8\Kalvi.OOP-Lab8.csproj", "{3825E403-10AF-4EE2-9142-AEDEB70B0030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3825E403-10AF-4EE2-9142-AEDEB70B0030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3825E403-10AF-4EE2-9142-AEDEB70B0030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3825E403-10AF-4EE2-9142-AEDEB70B0030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3825E403-10AF-4EE2-9142-AEDEB70B0030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54FE3EC6-14E6-422B-B43C-FE9CBDF7C0CF}
+	EndGlobalSection
+EndGlobal
